@@ -5,6 +5,7 @@ public class SistemaCadastro {
 
 		// definimos o endereco de marcos
 		// marcos.setEndereco("Rua das Marias");
+		// O endereço de Marcos 
 
 		// imprimindo o marcos sem o nome e cpf
 
@@ -12,3 +13,5 @@ public class SistemaCadastro {
 	}
 
 }
+//Méto construtor é um método que não tem retorno e
+//deve ser identico ao nome da  classe e deve receber parametros.
