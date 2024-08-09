@@ -1,3 +1,4 @@
+package trilha_java_basico;
 //Classe
 public class MinhaClasse {
 	// método principal
